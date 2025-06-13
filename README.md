@@ -32,15 +32,15 @@ Bienvenido a mi repositorio personal de aprendizaje en Inteligencia Artificial. 
 
 ## 🧠 Estructura del repositorio
 
-📁 fundamentos-python/ → Ejercicios y scripts base
-📁 ciencia-de-datos/ → Análisis con Pandas, visualizaciones
-📁 machine-learning/ → Modelos clásicos, notebooks, proyectos
-📁 deep-learning/ → Red neuronal desde cero, ejemplos con Keras
-📁 openai-experimentos/ → Prompts, GPT, DALL·E, APIs
-📁 agentes-inteligentes/ → LangChain, RAG, chatbots avanzados
-📁 vector-search/ → Pinecone, ChromaDB, búsquedas semánticas
-📁 notas/ → Apuntes personales y enlaces útiles
-📄 README.md → Esta guía
+-📁 fundamentos-python/ → Ejercicios y scripts base
+-📁 ciencia-de-datos/ → Análisis con Pandas, visualizaciones
+-📁 machine-learning/ → Modelos clásicos, notebooks, proyectos
+-📁 deep-learning/ → Red neuronal desde cero, ejemplos con Keras
+-📁 openai-experimentos/ → Prompts, GPT, DALL·E, APIs
+-📁 agentes-inteligentes/ → LangChain, RAG, chatbots avanzados
+-📁 vector-search/ → Pinecone, ChromaDB, búsquedas semánticas
+-📁 notas/ → Apuntes personales y enlaces útiles
+-📄 README.md → Esta guía
 
 
 ---
